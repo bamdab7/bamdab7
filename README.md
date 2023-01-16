@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bamdab7
 - 👀 I’m interested in web design and videogames
-- 🌱 I’m currently learning Kotlin, Pyhton and Java
+- 🌱 I’m currently learning Kotlin,C#, Pyhton and Java
 
 <!---
 bamdab7/bamdab7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
